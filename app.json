@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Society Invoice Generator",
+    "slug": "society-invoice-generator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saidham.invoicegenerator"
+    },
+    "android": {
+      "package": "com.saidham.invoicegenerator",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {}
+  }
+}
+
